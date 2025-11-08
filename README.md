@@ -53,7 +53,7 @@ It helps us to plot:
 | **Spending_Score** | Score assigned based on spending behavior |
 | **Cluster**        | Group assigned by the K-Means algorithm   |
 
-lusters Example:
+Clusters Example:
 
 - Cluster 0: High-income, high-spending customers
 
