@@ -14,7 +14,7 @@ In this project, we use K-Means Clustering, a popular unsupervised machine learn
 
 ## 💡 Explanation:  
 
-### What is K-Means Clustering?  
+1) What is K-Means Clustering?  
 K-Means is an unsupervised learning algorithm used for clustering data points.  
 It divides data into K groups (clusters) based on feature similarity.  
 
@@ -27,7 +27,7 @@ Steps:
 
 
 
-### What is Matplotlib?  
+2) What is Matplotlib?  
 Matplotlib is a data visualization library in Python.  
 It helps us to plot:  
 - Elbow graphs (to find best K)  
